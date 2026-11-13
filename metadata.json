@@ -1,0 +1,10 @@
+{
+  "name": "Remix Guessing Word Game",
+  "description": "A high-energy party game where you describe words to Gemini Live without using forbidden terms. Race against the clock!",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
